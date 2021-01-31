@@ -1,5 +1,5 @@
 export const availableStockSymbols = [
-    { name: 'Google', value: 'GOOG' },
+    { name: 'American Airline', value: 'AAL' },
     { name: 'Microsoft', value: 'MSFT' },
     { name: 'Facebook', value: 'FB' }
 ]

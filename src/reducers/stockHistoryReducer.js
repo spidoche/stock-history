@@ -3,7 +3,7 @@ import { stockHistoryActionTypes } from "../actions/sotckHistoryActions";
 export const stockHistoryDefaults = {
     data: null,
     mode: 'monthly',
-    symbol: 'GOOG',
+    symbol: 'AAL',
     outputType: 'compact'
 };
 
